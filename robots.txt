@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nipodhim.github.io/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/app/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/assets/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/css/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/data/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/includes/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/item/sitemap.nipodhim.gz
+Sitemap: https://nipodhim.github.io/src/sitemap.nipodhim.gz
